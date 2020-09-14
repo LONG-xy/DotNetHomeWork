@@ -1,0 +1,11 @@
+C:\Users\xy\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Calculate areas.exe
+C:\Users\xy\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Calculate areas.deps.json
+C:\Users\xy\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Calculate areas.runtimeconfig.json
+C:\Users\xy\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Calculate areas.runtimeconfig.dev.json
+C:\Users\xy\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Calculate areas.dll
+C:\Users\xy\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Calculate areas.pdb
+C:\Users\xy\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Calculate areas.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Calculate areas.AssemblyInfo.cs
+C:\Users\xy\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Calculate areas.dll
+C:\Users\xy\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Calculate areas.pdb
+C:\Users\xy\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Calculate areas.csprojAssemblyReference.cache

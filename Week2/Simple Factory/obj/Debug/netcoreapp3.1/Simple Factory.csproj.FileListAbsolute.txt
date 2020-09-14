@@ -1,0 +1,11 @@
+C:\Users\xy\source\repos\Week2\Simple Factory\bin\Debug\netcoreapp3.1\Simple Factory.exe
+C:\Users\xy\source\repos\Week2\Simple Factory\bin\Debug\netcoreapp3.1\Simple Factory.deps.json
+C:\Users\xy\source\repos\Week2\Simple Factory\bin\Debug\netcoreapp3.1\Simple Factory.runtimeconfig.json
+C:\Users\xy\source\repos\Week2\Simple Factory\bin\Debug\netcoreapp3.1\Simple Factory.runtimeconfig.dev.json
+C:\Users\xy\source\repos\Week2\Simple Factory\bin\Debug\netcoreapp3.1\Simple Factory.dll
+C:\Users\xy\source\repos\Week2\Simple Factory\bin\Debug\netcoreapp3.1\Simple Factory.pdb
+C:\Users\xy\source\repos\Week2\Simple Factory\obj\Debug\netcoreapp3.1\Simple Factory.csprojAssemblyReference.cache
+C:\Users\xy\source\repos\Week2\Simple Factory\obj\Debug\netcoreapp3.1\Simple Factory.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Week2\Simple Factory\obj\Debug\netcoreapp3.1\Simple Factory.AssemblyInfo.cs
+C:\Users\xy\source\repos\Week2\Simple Factory\obj\Debug\netcoreapp3.1\Simple Factory.dll
+C:\Users\xy\source\repos\Week2\Simple Factory\obj\Debug\netcoreapp3.1\Simple Factory.pdb

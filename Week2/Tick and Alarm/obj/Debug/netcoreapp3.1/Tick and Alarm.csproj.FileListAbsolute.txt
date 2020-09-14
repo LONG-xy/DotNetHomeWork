@@ -1,0 +1,11 @@
+C:\Users\xy\source\repos\Week2\Tick and Alarm\bin\Debug\netcoreapp3.1\Tick and Alarm.exe
+C:\Users\xy\source\repos\Week2\Tick and Alarm\bin\Debug\netcoreapp3.1\Tick and Alarm.deps.json
+C:\Users\xy\source\repos\Week2\Tick and Alarm\bin\Debug\netcoreapp3.1\Tick and Alarm.runtimeconfig.json
+C:\Users\xy\source\repos\Week2\Tick and Alarm\bin\Debug\netcoreapp3.1\Tick and Alarm.runtimeconfig.dev.json
+C:\Users\xy\source\repos\Week2\Tick and Alarm\bin\Debug\netcoreapp3.1\Tick and Alarm.dll
+C:\Users\xy\source\repos\Week2\Tick and Alarm\bin\Debug\netcoreapp3.1\Tick and Alarm.pdb
+C:\Users\xy\source\repos\Week2\Tick and Alarm\obj\Debug\netcoreapp3.1\Tick and Alarm.csprojAssemblyReference.cache
+C:\Users\xy\source\repos\Week2\Tick and Alarm\obj\Debug\netcoreapp3.1\Tick and Alarm.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Week2\Tick and Alarm\obj\Debug\netcoreapp3.1\Tick and Alarm.AssemblyInfo.cs
+C:\Users\xy\source\repos\Week2\Tick and Alarm\obj\Debug\netcoreapp3.1\Tick and Alarm.dll
+C:\Users\xy\source\repos\Week2\Tick and Alarm\obj\Debug\netcoreapp3.1\Tick and Alarm.pdb

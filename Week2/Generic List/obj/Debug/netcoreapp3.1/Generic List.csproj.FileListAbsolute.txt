@@ -1,0 +1,11 @@
+C:\Users\xy\source\repos\Week2\Generic List\bin\Debug\netcoreapp3.1\Generic List.exe
+C:\Users\xy\source\repos\Week2\Generic List\bin\Debug\netcoreapp3.1\Generic List.deps.json
+C:\Users\xy\source\repos\Week2\Generic List\bin\Debug\netcoreapp3.1\Generic List.runtimeconfig.json
+C:\Users\xy\source\repos\Week2\Generic List\bin\Debug\netcoreapp3.1\Generic List.runtimeconfig.dev.json
+C:\Users\xy\source\repos\Week2\Generic List\bin\Debug\netcoreapp3.1\Generic List.dll
+C:\Users\xy\source\repos\Week2\Generic List\bin\Debug\netcoreapp3.1\Generic List.pdb
+C:\Users\xy\source\repos\Week2\Generic List\obj\Debug\netcoreapp3.1\Generic List.csprojAssemblyReference.cache
+C:\Users\xy\source\repos\Week2\Generic List\obj\Debug\netcoreapp3.1\Generic List.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Week2\Generic List\obj\Debug\netcoreapp3.1\Generic List.AssemblyInfo.cs
+C:\Users\xy\source\repos\Week2\Generic List\obj\Debug\netcoreapp3.1\Generic List.dll
+C:\Users\xy\source\repos\Week2\Generic List\obj\Debug\netcoreapp3.1\Generic List.pdb
